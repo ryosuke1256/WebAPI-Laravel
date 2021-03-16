@@ -6,6 +6,7 @@
 ## Usage
 
 git clone https://github.com/ryosuke1256/webAPI-laravel.git
+
 マイグレーションを実行  
 `php artisan migrate`  
 シーダーの実行  
