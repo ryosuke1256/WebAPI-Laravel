@@ -9,3 +9,5 @@
 `php artisan migrate`  
 シーダーの実行  
 `php artisan db:seed`
+
+<img href="https://github.com/ryosuke1256/image/blob/main/json.png">
