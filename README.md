@@ -10,4 +10,4 @@
 シーダーの実行  
 `php artisan db:seed`
 
-<img src="https://github.com/ryosuke1256/image/blob/main/json.png" width="100%" >
+<img src="https://github.com/ryosuke1256/image/blob/main/json.png" width="100%" height="200px">
