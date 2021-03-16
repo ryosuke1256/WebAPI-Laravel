@@ -5,9 +5,9 @@
 
 ## Usage
 
+git clone https://github.com/ryosuke1256/WebAPI-Laravel.git
+
 マイグレーションを実行  
 `php artisan migrate`  
 シーダーの実行  
 `php artisan db:seed`
-
-<img src="https://github.com/ryosuke1256/image/blob/main/json.png" width="100%">
