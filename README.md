@@ -24,3 +24,18 @@
 
 10 個のダミーデータが生成されます  
 username と email は faker を使っています
+
+### route list
+
++--------+-----------+------------------------------+------------------+-------------------------------------------------+------------+
+| Domain | Method | URI | Name | Action | Middleware |
++--------+-----------+------------------------------+------------------+-------------------------------------------------+------------+
+| | GET|HEAD | / | | Closure | web |
+| | GET|HEAD | api/resource | resource.index | App\Http\Controllers\ResourceController@index | api |
+| | POST | api/resource | resource.store | App\Http\Controllers\ResourceController@store | api |
+| | GET|HEAD | api/resource/create | resource.create | App\Http\Controllers\ResourceController@create | api |
+| | GET|HEAD | api/resource/{resource} | resource.show | App\Http\Controllers\ResourceController@show | api |
+| | PUT|PATCH | api/resource/{resource} | resource.update | App\Http\Controllers\ResourceController@update | api |
+| | DELETE | api/resource/{resource} | resource.destroy | App\Http\Controllers\ResourceController@destroy | api |
+| | GET|HEAD | api/resource/{resource}/edit | resource.edit | App\Http\Controllers\ResourceController@edit | api |
++--------+-----------+------------------------------+------------------+-------------------------------------------------+------------+
