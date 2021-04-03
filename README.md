@@ -22,5 +22,5 @@
 | created_at | timestamp    |                    |                |
 | updated_at | timestamp    |                    |                |
 
-10 個のダミーデータが生成されます
+10 個のダミーデータが生成されます  
 username と email は faker を使っています
