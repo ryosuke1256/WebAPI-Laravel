@@ -12,5 +12,5 @@
 **シーダーの実行**  
 `php artisan db:seed`
 
-**エンドポイント**  
+### Endpoint   
 `/api/resource`
