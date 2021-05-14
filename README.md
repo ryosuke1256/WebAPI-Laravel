@@ -5,7 +5,7 @@
 
 ### Usage
 
-`git clone https://github.com/ryosuke1256/WebAPI-Laravel.git`
+`git clone https://github.com/ryosuke1256/web-api-laravel.git`
 
 **マイグレーションを実行**  
 `php artisan migrate`  
