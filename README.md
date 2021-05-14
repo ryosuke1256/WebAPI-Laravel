@@ -22,4 +22,5 @@
 
 10 個のダミーデータが生成されます  
 username と email は faker を使っています  
-エンドポイント`/api/resource`
+エンドポイント  
+`/api/resource`
